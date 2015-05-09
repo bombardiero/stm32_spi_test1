@@ -8,4 +8,5 @@ git add . <br />
 git commit -m "aaa" <br />
 git push <br />
 
+<br /><br />https://help.github.com/articles/generating-ssh-keys/<br />
 
